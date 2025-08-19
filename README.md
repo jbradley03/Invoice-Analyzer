@@ -1,6 +1,6 @@
 # Invoice Analyser
 
-A .NET 8.0 Web API that extracts data from a pdf of an user-submitted invoice PDF and returns it in JSON format. It uses the Azure AI Document Intelligence.
+A .NET 8.0 Web API that extracts data from a user-submitted invoice PDF and returns it in JSON format. It uses the Azure AI Document Intelligence Service.
 
 # Context
 

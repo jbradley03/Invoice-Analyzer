@@ -11,11 +11,10 @@
 *.sln.docstates
 *.env
 appsettings.json
-<<<<<<< HEAD
+
 *.secret.json
 
-=======
->>>>>>> f022572 (Initial commit)
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 

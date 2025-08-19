@@ -8,9 +8,12 @@ Built as a proof of concept project during my internship with Core Financial Sys
 
 Initially prototyped with a React frontend but later adapted to ASP.NET Razor Pages to align with Core's existing ecosystem and deployment practices. Both versions are included in codebase but the deployed Razor Pages version is linked below.
 
-You will need to provide a sample invoice PDF, which can be found online.
+You will need to provide a sample invoice PDF, which can be found here.
 
-## Link
+https://github.com/femstac/Sample-Pdf-invoices/blob/main/1000%2B%20PDF_Invoice_Folder.zip
+
+
+## Razor Pages Implementation
 https://ebfdev-ebfadmin.msappproxy.net/InvoiceAnalyzer/
 
 
